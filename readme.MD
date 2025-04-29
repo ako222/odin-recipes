@@ -1,0 +1,1 @@
+Made a simple website using the odin project. forgot to commit the steps along the way. 
